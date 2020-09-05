@@ -1,0 +1,5 @@
+{
+  "name": "CodeMirror Grep",
+  "main": "index.html",
+"chromium-args":"--mixed-context"
+}

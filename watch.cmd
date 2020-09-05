@@ -1,0 +1,1 @@
+watchify --bare -x vue -x vuex index.js -o bundle.js
